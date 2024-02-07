@@ -1,5 +1,6 @@
 ## Hi:)
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=3000&color=20CA1E&multiline=true&width=700&height=100&lines=I'm+a+Python+Developer+and+Machine+Learning+Enginee;I'm+a+Python+Developer+and+Machine+Learning+Enthusiast.)](https://git.io/typing-svg) -->
+I'm a Machine Learning Engineer with a BSc in Neuroscience and 3+ years of commercial experience based in Wroclaw, Poland.
+Having experience in both commercial and research projects, the fusion of both is what I find most exciting.
 
 ##### What I'm doing
 
@@ -14,7 +15,8 @@
 - fraud detection in Ethereum transactions
 - VRP with Time Windows for field agents' route optimization
 
- ### Tools I like
+### Tools I like
+ 
 ![image](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
